@@ -2,3 +2,4 @@ Java y Python
 Cambio gerson
 Cambio Jorge
 Cambio Renzo
+Cambio Jose
